@@ -128,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+videos/2021-02-21_TimeTeleScope.gif
+videos/2021-02-21_TimeTeleScope.mp4
